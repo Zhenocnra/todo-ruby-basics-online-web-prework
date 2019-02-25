@@ -6,8 +6,8 @@ def assign_variable(value)
   name = value
 end
 
-def argue(bias)
-  return = bias
+def argue(phrase)
+  return = phrase
 end
 
 def greeting(name, gender)
