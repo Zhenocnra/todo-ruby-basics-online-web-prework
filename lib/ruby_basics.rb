@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue
-  
+  bias =
 end
 
 def greeting
