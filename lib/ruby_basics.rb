@@ -10,8 +10,8 @@ def argue(bias)
   return = bias
 end
 
-def greeting
-
+def greeting(name, gender)
+  puts "Hello, my name is #{name} and I am a #{gender}."
 end
 
 def return_a_value
